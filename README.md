@@ -1,4 +1,5 @@
-## Hi, I'm Abhinav 👋
+<h1 align="center">## Hi, I'm Abhinav 👋 </h1>
+<img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
 
 Deep diving backend engineer with a desire to learn and create projects at scale. These days I am trying to get a hold of Concurrent Programming and the Rust Programming Language. 
 
@@ -15,7 +16,6 @@ Deep diving backend engineer with a desire to learn and create projects at scale
 - Computer Science graduate from IIT (BHU), Varanasi. 
 - Previously worked at IBM and Visa. 
 - Founding developer and architect @ Fleek (https://www.getfleek.app/), serving > 200k+ users.
-- <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt=""/>
 
 ### :fire: My Stats :
 
