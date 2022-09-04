@@ -1,5 +1,7 @@
-<h1 align="center">## Hi, I'm Abhinav 👋 </h1>
-<img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
+<h1 align="center"> Hi, I'm Abhinav 👋 </h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
+</div>
 
 Deep diving backend engineer with a desire to learn and create projects at scale. These days I am trying to get a hold of Concurrent Programming and the Rust Programming Language. 
 
@@ -19,10 +21,11 @@ Deep diving backend engineer with a desire to learn and create projects at scale
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhstabs)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhstabs)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhstabs)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhstabs)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
