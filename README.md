@@ -1,5 +1,6 @@
 <h1 align="center"> Hi, I'm Abhinav 👋 </h1>
 <div align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
@@ -20,12 +21,8 @@ Deep diving backend engineer with a desire to learn and create projects at scale
 - Founding developer and architect @ Fleek (https://www.getfleek.app/), serving > 200k+ users.
 
 ### :fire: My Stats :
-
-<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhstabs)](https://git.io/streak-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhstabs)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
