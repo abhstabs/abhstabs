@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Abhinav 👋 </h1>
 <div align="center">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
+  <br>
 </div>
 
 Deep diving backend engineer with a desire to learn and create projects at scale. These days I am trying to get a hold of Concurrent Programming and the Rust Programming Language. 
