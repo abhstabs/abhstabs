@@ -34,6 +34,16 @@ Microservices · PostgreSQL · Kafka · gRPC · REST APIs
 - 💼 [LinkedIn](https://linkedin.com/in/abhinavraj) — for work conversations
 - 📬 abhinav.raj3 [at] gmail [dot] com (for everything else)
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhstabs&theme=default&hide_border=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
+  <br>
+</div>
+
+</div>
+
 <!--
 **abhstabs/abhstabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
