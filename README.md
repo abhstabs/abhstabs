@@ -1,31 +1,38 @@
 <h1 align="center"> Hi, I'm Abhinav </h1>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhstabs&style=flat-square&color=blue" alt="" align="center"/>
-  <br>
-</div>
 
-Deep diving backend engineer with a desire to learn and create projects at scale. Have contributed to multiple early idea startups, and I'm currently learning how to design scalable systems. 
-
-- 🔭 Working as Senior Backend Engineer @ Aspire (https://aspireapp.com/)
-- 👯 I’m looking to collaborate on Python/Rust based projects. 
-- 💬 Ask me about how to build web applications using Python.
-- ⚡ Fun fact: Started playing Basketball 🏀 @ 22
-- 📫 How to reach me: ...
-  - Say hi at [abhinav.raj3@gmail.com](mailto:abhinav.raj3@gmail.com)
-  - <a href="https://www.linkedin.com/in/abhinavraj98/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-
-#### Summary:
-- Computer Science graduate from IIT (BHU), Varanasi. 
-- Previously worked at Privado.ai, IBM and Visa. 
-- Founding developer and architect @ Fleek (https://www.getfleek.app/), serving > 200k+ users.
-
-### :fire: My Stats :
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhstabs)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhstabs)](https://github.com/anuraghazra/github-readme-stats)
+Deep diving Lead Backend Engineer working with projects at scale. Have contributed to multiple early stage startups, and I'm currently designing scalable systems. 
+I focus on high-throughput APIs, event-driven architectures, and systems where correctness is non-negotiable. My primary stack is Go and Python.
 
 
+### What I've built
+
+- **[Aspire](https://aspireapp.com)** — Lead Engineer, Onboarding Team. Designing distributed backend infrastructure to onboard customers across geographies while maintaining compliance.
+- **[Fleek](https://www.getfleek.app/)** — Founding engineer & architect; scaled to 200k+ users.
+- **[Privado.ai](https://privado.ai), IBM, Visa** — Earlier stints across privacy tech, enterprise, and payments.
+
+---
+
+### What I work with
+
+```
+Go · Python · Distributed Systems · Event-Driven Architecture
+Microservices · PostgreSQL · Kafka · gRPC · REST APIs
+```
+
+---
+
+### A bit more
+
+- 🎓 CS from IIT (BHU), Varanasi
+- 🌏 Based in India, working across Southeast Asia
+- 🏀 Started playing basketball at 22 — still at it
+
+---
+
+### Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/abhinavraj) — for work conversations
+- 📬 abhinav.raj3 [at] gmail [dot] com (for everything else)
 
 <!--
 **abhstabs/abhstabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
