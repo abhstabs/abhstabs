@@ -24,7 +24,7 @@ Microservices · PostgreSQL · Kafka · gRPC · REST APIs
 ### A bit more
 
 - 🎓 CS from IIT (BHU), Varanasi
-- 🌏 Based in India, working across Southeast Asia
+- 🌏 Based in India
 - 🏀 Started playing basketball at 22 — still at it
 
 ---
